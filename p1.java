@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class SwapNumbers
+class p1
 {
 public static void main(String args[])
 {
